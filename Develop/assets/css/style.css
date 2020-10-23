@@ -14,13 +14,13 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-header h1 {
+/* got rid of header which was next to h1 */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+h1 .seo {
     color: #d9dcd6;
 }
 
