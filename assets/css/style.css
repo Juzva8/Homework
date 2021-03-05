@@ -135,7 +135,7 @@ main {
 
 /*Changed this to an element selector for article and deleted unneccessary duplicate code*/
 
-article {
+div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,16 +145,16 @@ article {
 }
 
 
-/*Changed this to an element selector for article and deleted unneccessary duplicate code*/
+/*Changed this to an element selector for div and deleted unneccessary duplicate code*/
 
-article img {
+div img {
     max-height: 200px;
 }
 
 
-/*Changed this to an element selector for article and deleted unneccessary duplicate code*/
+/*Changed this to an element selector for div and deleted unneccessary duplicate code*/
 
-article h2 {
+div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
